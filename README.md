@@ -34,11 +34,14 @@ Senior Fullstack Developer with **5+ years** building high-concurrency distribut
 	<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
 </p>
 
-### AI & Data
+### 🤖 AI & Tools
 <p>
 	<img src="https://img.shields.io/badge/LLM-Gemini-7C3AED?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
 	<img src="https://img.shields.io/badge/RAG-VectorDB-0B6E99?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG"/>
 	<img src="https://img.shields.io/badge/Document_AI-Extraction-FF9800?style=for-the-badge&logo=google&logoColor=white" alt="Document AI"/>
+	<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+	<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+	<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
 </p>
 
 ### Other Skills
